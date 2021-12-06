@@ -2,7 +2,9 @@
 
 [![Torivara's GitHub stats](https://github-readme-stats.vercel.app/api?username=torivara&show_icons=true&theme=nightowl)](https://github.com/torivara/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torivara&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 - 👀 I’m interested in Azure IaC and Architecture
 - 🌱 I’m currently learning Azure Bicep
