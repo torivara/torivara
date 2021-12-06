@@ -6,9 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torivara&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- 👀 I’m interested in Azure IaC and Architecture
-- 🌱 I’m currently learning Azure Bicep
-- 💬 Ask me about Azure IaC or Architecture
+- 👀 I’m interested in Azure IaC and Architecture with [CAF Enterprise Scale](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/architecture)
+- 🌱 I’m currently learning Azure Bicep and GitHub branching strategies
+- 💬 Ask me about Azure IaC, GitHub CI/CD or Architecture
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/torivara)
   - [LinkedIn](https://www.linkedin.com/in/tor-ivar-asb%C3%B8lmo-343a2820/)
