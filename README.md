@@ -1,10 +1,9 @@
-### Hi there 👋
+## 👋 Hi, I’m @torivara
 
-[![Torivara's GitHub stats](https://github-readme-stats.vercel.app/api?username=torivara)](https://github.com/torivara/github-readme-stats)
+[![Torivara's GitHub stats](https://github-readme-stats.vercel.app/api?username=torivara&show_icons=true&theme=nightowl)](https://github.com/torivara/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torivara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torivara&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m @torivara
 - 👀 I’m interested in Azure IaC and Architecture
 - 🌱 I’m currently learning Azure Bicep
 - 💬 Ask me about Azure IaC or Architecture
