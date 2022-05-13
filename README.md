@@ -11,7 +11,8 @@
 - 📫 How to reach me:
   - [![Twitter Badge](https://img.shields.io/twitter/url?label=torivara&style=social&url=https%3A%2F%2Ftwitter.com%2Ftorivara)](https://twitter.com/torivara)
   - [![Linkedin Badge](https://img.shields.io/badge/-torivara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/torivara)
-  - [Blog](https://www.torivar.com)
+
+Check out [⚡ My Blog](https://www.torivar.com) for the occasional interesting article.
 
 <!--
 **torivara/torivara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
