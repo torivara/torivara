@@ -11,6 +11,7 @@
 - 📫 How to reach me:
   - [![Twitter Badge](https://img.shields.io/twitter/url?label=torivara&style=social&url=https%3A%2F%2Ftwitter.com%2Ftorivara)](https://twitter.com/torivara)
   - [![Linkedin Badge](https://img.shields.io/badge/-torivara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/torivara)
+- ⚡ Fun fact: 2nd degree Taekwondo black belt
 
 Check out [⚡ My Blog](https://www.torivar.com) for the occasional interesting article.
 
@@ -26,5 +27,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
